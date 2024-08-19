@@ -54,7 +54,7 @@ This bot automates the process of lurking in Twitch channels, helping to increas
 
 ## 🏆 Achievements
 - **Multi-threaded Telegram Scraper:** Developed an efficient scraper for extracting personal data from Telegram.
-- **Custom OTClient Modules:** Implemented advanced features and support for Tibia 12.85 ~ 13.21.
+- **Custom OTClient Modules:** Implemented advanced features and support for Tibia 8.4 ~ 13.40.
 - **AI-Generated Music Album:** Released an album created using AI techniques.
 
 ## 🌐 Top Languages
@@ -64,7 +64,7 @@ This bot automates the process of lurking in Twitch channels, helping to increas
 
 ## 📈 Contributions
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Kizuno18&theme=redical)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Kizuno18&theme=redical)
 
 ## 🏆 GitHub Trophies
 
