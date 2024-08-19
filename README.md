@@ -61,11 +61,6 @@ This bot automates the process of lurking in Twitch channels, helping to increas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizuno18&layout=compact&theme=radical)
 
-
-## 📈 Contributions
-
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Kizuno18&theme=redical)
-
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kizuno18&theme=radical)
