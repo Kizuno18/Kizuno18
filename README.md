@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🎂 **Age:** 23 years old
-- 📍 **Location:** Brazil
+- 📍 **Location:** Under Pacific
 - 💻 **Profession:** Developer, specializing in automation, bot development, and game client customization.
 - 🎨 **Interests:**  
   - **Music Production**: Producing the album *Kizuno Feels*.
@@ -38,19 +38,15 @@ An advanced Twitch bot that offers speech recognition, proxy support, and other 
 ### 📂 **[Proxifier Proxy Import](https://github.com/Kizuno18/proxifierProxyImport)**
 A Python script that facilitates the bulk import of proxy lists into Proxifier, useful for users who need to manage large volumes of proxies.
 
-### 🎯 **[TTVDrop Bot](https://github.com/Kizuno18/twitch-gql-ttvdropbot)**
-A bot that interacts with Twitch's GraphQL protocol to automate the collection of drops during streams. It allows you to access streamer and video information, as well as collect access tokens for specific streams.
-
-### 🤖 **[Twitch Auto-Lurk Bot](https://github.com/Kizuno18/Twitch-Auto-Lurk-Bot)**
-This bot automates the process of lurking in Twitch channels, helping to increase watch time on your account. Based on tmi.js, it allows you to automatically interact with Twitch channels.
-
 ## 🌱 Currently Learning
 - **Advanced Lua Scripting**: Improving OTClient scripts with more efficient algorithms and new functionalities.
 - **Twitch API Integration**: Developing sophisticated bots using multiple Twitch API features.
 - **Network Connections and Low-Level Reverse Engineering**: Exploring network protocols and reverse engineering to deepen my understanding of software communication and enhance security.
 
 ## 📫 How to Reach Me
-- **Discord:** [@Kizuno18](#)
+- **Discord:** [@Kizuno18](#https://discordapp.com/users/1018287760131498107)
+- **Twitter:** [@Kizuno18](#https://twitter.com/Kizuno18)
+- **Youtube:** [@Kizuno18](#https://youtube.com/c/@Kizuno18)
 
 ## 🏆 Achievements
 - **Multi-threaded Telegram Scraper:** Developed an efficient scraper for extracting personal data from Telegram.
