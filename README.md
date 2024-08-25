@@ -46,7 +46,7 @@ A Python script that facilitates the bulk import of proxy lists into Proxifier, 
 ## 📫 How to Reach Me
 - **Discord:** [@Kizuno18](https://discordapp.com/users/1018287760131498107)
 - **Twitter:** [@Kizuno18](https://twitter.com/Kizuno18)
-- **Youtube:** [@Kizuno18](https://youtube.com/c/@Kizuno18)
+- **Youtube:** [@Kizuno18](https://youtube.com/@Kizuno18)
 
 ## 🏆 Achievements
 - **Multi-threaded Telegram Scraper:** Developed an efficient scraper for extracting personal data from Telegram.
