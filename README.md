@@ -4,21 +4,22 @@
 
 - 🎂 **Age:** 23 years old
 - 📍 **Location:** Under Pacific
-- 💻 **Profession:** Developer, specializing in automation, bot development, and game client customization.
+- 💻 **Profession:** Developer, specializing in automation, bot development, api creation, and game client customization.
 - 🎨 **Interests:**  
   - **Music Production**: Producing the album *Kizuno Feels*.
-  - **Bot Development**: Creating bots for WhatsApp, Twitch, and OTClient.
-  - **Programming**: Focused on Python, C++, Lua, and JavaScript.
+  - **Bot Development**: Creating bots for WhatsApp, Twitch, TikTok, Youtube, and OTClient (OTServ).
+  - **Programming**: Focused on Python, C++, Rust, Node, Typescript, Lua, and JavaScript.
   - **Open Source Contributions**: Actively contributing to various open-source projects.
+  - Creator and maintainer of **KizuBot** ([kizubot.com](https://kizubot.com)) — a fully AFK automation tool for PokeXGames (PXG), featuring intelligent modules for combat, cavebotting, looting, auto-catching, and WhatsApp notifications.
 
 ## 💻 Skills
 - **Languages:**
   - Python
   - Lua
   - C#
+  - C/C++
   - Rust
-  - JavaScript
-  - C++
+  - JavaScript/Typescript
 - **Frameworks & Tools:**
   - **Node.js**: Used in projects like the WhatsApp bot.
   - **Docker**: Setting up consistent development environments.
@@ -47,6 +48,7 @@ A Python script that facilitates the bulk import of proxy lists into Proxifier, 
 - **Discord:** [@Kizuno18](https://discordapp.com/users/1018287760131498107)
 - **Twitter:** [@Kizuno18](https://twitter.com/Kizuno18)
 - **Youtube:** [@Kizuno18](https://youtube.com/@Kizuno18)
+- For support, collaborations, or if you're interested in **KizuBot** ([kizubot.com](https://kizubot.com)), feel free to contact me directly. I can help you choose a plan, explore its features, and set it up to maximize your results in PokeXGames (PXG).
 
 ## 🏆 Achievements
 - **Multi-threaded Telegram Scraper:** Developed an efficient scraper for extracting personal data from Telegram.
