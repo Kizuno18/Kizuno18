@@ -52,7 +52,7 @@ A Python script that facilitates the bulk import of proxy lists into Proxifier, 
 
 ## 🏆 Achievements
 - **Multi-threaded Telegram Scraper:** Developed an efficient scraper for extracting personal data from Telegram.
-- **Custom OTClient Modules:** Implemented advanced features and support for Tibia 8.4 ~ 13.40.
+- **Custom OTClient Modules:** Implemented advanced features and support for Tibia 7.4 ~ 15.40.
 - **AI-Generated Music Album:** Released an album created using AI techniques.
 
 ## 🌐 Top Languages
