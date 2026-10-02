@@ -1,79 +1,93 @@
-# 👋 Hello, I'm Kizuno18!
+<h1 align="center">Kizuno</h1>
 
-## 🚀 About Me
+<p align="center">
+  <b>Reverse engineer &amp; full-stack dev — building game internals since 2014.</b>
+</p>
 
-- 🎂 **Age:** 23 years old
-- 📍 **Location:** Under Pacific
-- 💻 **Profession:** Developer, specializing in automation, bot development, api creation, and game client customization.
-- 🎨 **Interests:**  
-  - **Music Production**: Producing the album *Kizuno Feels*.
-  - **Bot Development**: Creating bots for WhatsApp, Twitch, TikTok, Youtube, and OTClient (OTServ).
-  - **Programming**: Focused on Python, C++, Rust, Node, Typescript, Lua, and JavaScript.
-  - **Open Source Contributions**: Actively contributing to various open-source projects.
-  - Creator and maintainer of **KizuBot** ([kizubot.com](https://kizubot.com)) — a fully AFK automation tool for PokeXGames (PXG), featuring intelligent modules for combat, cavebotting, looting, auto-catching, and WhatsApp notifications.
+<p align="center">
+  <a href="https://portfolio.kizuno.net">🌐&nbsp;Portfolio</a> ·
+  <a href="mailto:contato@kizuno.net">✉️&nbsp;Email</a> ·
+  <a href="https://twitter.com/Kizuno18">𝕏&nbsp;Twitter</a> ·
+  <a href="https://youtube.com/@Kizuno18">▶️&nbsp;YouTube</a> ·
+  <a href="https://discordapp.com/users/1018287760131498107">💬&nbsp;Discord</a>
+</p>
 
-## 💻 Skills
-- **Languages:**
-  - Python
-  - Lua
-  - C#
-  - C/C++
-  - Rust
-  - JavaScript/Typescript
-- **Frameworks & Tools:**
-  - **Node.js**: Used in projects like the WhatsApp bot.
-  - **Docker**: Setting up consistent development environments.
-  - **OTClient**: Customization and module development for Tibia.
+---
 
-## 🔥 Projects
+### 👋 About
 
-### 🤖 **[wppBot](https://github.com/Kizuno18/wppBot)**
-A WhatsApp bot that once served 60k users across 2k groups, offering commands ranging from entertainment to group moderation and automation. While support has been discontinued, the code remains available for study.
+Brazilian engineer working where **low-level reverse engineering** meets **modern full-stack**. I've been shipping software in the Tibia / OTClient / RE space since I was 14 — today that means LuaJIT inline hooks and Windows internals on one side, and Rust workspaces, Go services, Tauri desktops and Next.js dashboards on the other. I like owning products end-to-end: the core, the dashboard, the billing, and the infra underneath.
 
-### 🔧 **[kizuLib](https://github.com/Kizuno18/kizuLib)**
-A library for OTClient that simplifies the use of commands in the client's terminal. Although the project has been archived, it continues to be a reference for developers seeking OTClient automation.
+- 🔭 **Now:** owner & full-stack engineer at **[KizuBot](https://kizubot.com)** · co-founder & backend/dashboard dev at **[CoreGuard](https://coreguard.com.br)** (anti-cheat SaaS) · tech lead on the **PokeAlliance** OTClient.
+- 🧰 **Comfort zone:** C/C++ ↔ Rust ↔ Go ↔ TypeScript — from a stripped binary in Ghidra up to a React dashboard on Vercel.
+- 🌱 **Lately:** productising RE tooling (reproducible Windows RE labs, inline-hook frameworks) and first-party analytics/infra on Cloudflare Workers.
+- 🎧 **Off-keyboard:** music production — the album *Kizuno Feels*.
 
-### 🛠️ **[YaBoi Twitch Bot](https://github.com/Kizuno18/ttv-bot-YaBoi-v1)**
-An advanced Twitch bot that offers speech recognition, proxy support, and other features like cookie-based login and automatic chat. The bot was developed as an experiment to explore advanced automation techniques.
+---
 
-### 📂 **[Proxifier Proxy Import](https://github.com/Kizuno18/proxifierProxyImport)**
-A Python script that facilitates the bulk import of proxy lists into Proxifier, useful for users who need to manage large volumes of proxies.
+### 🛠️ Tech
 
-## 🌱 Currently Learning
-- **Advanced Lua Scripting**: Improving OTClient scripts with more efficient algorithms and new functionalities.
-- **Twitch API Integration**: Developing sophisticated bots using multiple Twitch API features.
-- **Network Connections and Low-Level Reverse Engineering**: Exploring network protocols and reverse engineering to deepen my understanding of software communication and enhance security.
+**Reverse engineering** — C / C++ · LuaJIT C-API hooking · x86 / x64 inline hooks · Ghidra · IDA Pro · x64dbg · mitmproxy / packet capture · Windows internals · Wine / Bottles · game-protocol analysis
 
-## 📫 How to Reach Me
-- **Discord:** [@Kizuno18](https://discordapp.com/users/1018287760131498107)
-- **Twitter:** [@Kizuno18](https://twitter.com/Kizuno18)
-- **Youtube:** [@Kizuno18](https://youtube.com/@Kizuno18)
-- For support, collaborations, or if you're interested in **KizuBot** ([kizubot.com](https://kizubot.com)), feel free to contact me directly. I can help you choose a plan, explore its features, and set it up to maximize your results in PokeXGames (PXG).
+**Systems** — Linux `LD_PRELOAD` · Windows DLLs · Tauri 2 · Docker · KVM / qcow2 · Cloudflare Tunnel
 
-## 🏆 Achievements
-- **Multi-threaded Telegram Scraper:** Developed an efficient scraper for extracting personal data from Telegram.
-- **Custom OTClient Modules:** Implemented advanced features and support for Tibia 7.4 ~ 15.40.
-- **AI-Generated Music Album:** Released an album created using AI techniques.
+**Backend** — TypeScript · Node.js · Rust · Go · Python · PHP · PostgreSQL · MySQL
 
-## 🌐 Top Languages
+**Frontend** — Next.js (App Router) · React · Tauri 2 · Tailwind CSS · shadcn/ui
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizuno18&layout=compact&theme=radical)
+**Infra & ops** — Vercel · Cloudflare · Docker Compose · Prometheus · Grafana · PM2 · systemd · Stripe · Baileys · BGP / IX.br peering · datacenter colocation
 
-## 🏆 GitHub Trophies
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kizuno18&theme=radical)
+---
 
-## 🔥 Contribution Streak
+### 🚀 Selected work
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kizuno18&theme=radical)
+| Project | What it is |
+|---|---|
+| **[windows-reversing](https://github.com/Kizuno18/windows-reversing)** | Original Ghidra scripts that trace `LuaEngine` internals inside a real game binary, plus a CopyFile-API hook DLL. |
+| **tibia-bot-rs** *(private)* | 9-crate Rust workspace — game-protocol parsing, crypto, `mlua` scripting, `bevy_ecs`, `tokio` networking. |
+| **bigot-next** *(private)* | From-scratch **Next.js 16 / React 19** rewrite of the Gesior OTServ CMS — 90 App Router pages, 55 API handlers, and a browser-native DAT/SPR/OTB item editor. |
+| **kizumetrics** *(private)* | First-party, server-side conversion gateway on **Cloudflare Workers** — a 4-worker monorepo fanning out to 9 vendor APIs, Terraform-managed. |
+| **windows-lab** *(private)* | Packer-in-Docker pipeline → one-click Windows RE lab on Hetzner (~3–4 min/VM, 20 in parallel) with Ghidra / IDA and an MCP gateway for remote RE. |
+| **mongebot-go** *(private)* | Go concurrency core (pure protocol requests, no browser) with a Tauri 2 desktop shell and a CI/CD pipeline. |
+| **[KizuBot](https://kizubot.com)** *(private)* | My flagship automation platform for the Tibia / OTClient ecosystem — bot cores, a Next.js dashboard, licensing & billing, a real-time machine grid, and WhatsApp notifications. |
 
-## 🚀 Project Status
+More on the **[portfolio →](https://portfolio.kizuno.net)**
 
-![Repo Status](https://img.shields.io/github/stars/Kizuno18/wppBot?style=social)
-![Repo Issues](https://img.shields.io/github/issues/Kizuno18/wppBot)
-![Repo Forks](https://img.shields.io/github/forks/Kizuno18/wppBot?style=social)
+---
 
+### 🌍 Open source
 
-## 📊 GitHub Stats
+- **[opentibiabr/otclient](https://github.com/opentibiabr/otclient)** — recurring contributor: forge / vBot fixes, Android build modernisation (vcpkg + LuaJIT), an `ENABLE_ENCRYPTION` crash/corruption fix, and Monk-vocation support across the bot scripts.
+- **[WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)** — finished and shipped the stalled OTP-delay fix for the new pairing-code path ([#643](https://github.com/WhiskeySockets/Baileys/pull/643)); later mirrored into ~17 downstream forks.
+- **[opentibiabr/canary](https://github.com/opentibiabr/canary)** — Dockerfile fix for the vcpkg commit-id extraction ([#2797](https://github.com/opentibiabr/canary/pull/2797)).
+- **[mehah/otclient](https://github.com/mehah/otclient)** — sponsor of the Bot V8 port (`feat: v8 Bot`); credited in the upstream README.
+- **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — feature work on an AI model-routing proxy (provider translators, transport options, OAuth routing).
 
-![Kizuno18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kizuno18&show_icons=true&theme=radical)
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="165" alt="Kizuno18's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kizuno18&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizuno18&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Kizuno18&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+---
+
+<p align="center"><i>we are all one — it isn't about me.</i></p>
