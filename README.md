@@ -71,10 +71,13 @@
 
 - 🤖 **[KizuBot](https://kizubot.com)** — my flagship: a full AFK automation suite for **PokeXGames (PXG)** (combat, cavebot, looting, auto-catch, WhatsApp notifications) with its own bot cores, Next.js dashboard, licensing/billing and infra. *(private)*
 - 🛡️ **[CoreGuard](https://coreguard.com.br)** — co-founded anti-cheat SaaS for OTClient-family clients; I own the backend + dashboard (real-time WebSocket protocol, ~50 REST endpoints, multi-tenant auth). *(private)*
+- 💬 **[zap-bot](https://zap-bot.org)** — WhatsApp automation SaaS: PostgreSQL warm-up routines, a dual-execution campaign engine, spintax, and per-tenant row-level security. *(private)*
+- 🎨 **[mq-studio](https://mqstudioia.com)** — AI image & video generation studio: generate and refine images, spin close-ups from a detail, and create video from a single still. *(private)*
 - 🦀 **tibia-bot-rs** — a 9-crate **Rust** workspace: game-protocol parsing, crypto, `mlua` scripting, `bevy_ecs`, `tokio` networking. *(private)*
-- ⚡ **bigot-next** — from-scratch **Next.js 16 / React 19** rewrite of the Gesior OTServ CMS (90 pages, 55 API routes) with a browser-native DAT/SPR/OTB item editor. *(private)*
+- ⚡ **[bigot-next](https://bigot.com.br)** — from-scratch **Next.js 16 / React 19** rewrite of the Gesior OTServ CMS (live at **bigot.com.br**): 90 App Router pages, 55 API routes, and a browser-native DAT/SPR/OTB item editor. *(private)*
 - ☁️ **kizumetrics** — first-party, server-side conversion gateway on **Cloudflare Workers** (4-worker monorepo → 9 vendor APIs, Terraform-managed). *(private)*
 - 🧪 **windows-lab** — Packer-in-Docker pipeline → one-click Windows **RE lab** on Hetzner (~3–4 min/VM) with Ghidra / IDA and an MCP gateway for remote RE. *(private)*
+- 🎒 **[dora-explores-binaries](https://github.com/Kizuno18/dora-explores-binaries)** — open-source, cross-harness reverse-engineering **skill** (Anthropic Skills format) that makes an AI agent narrate RE work legibly: it announces each tool call, names every anti-analysis trick, and backs every finding with the exact bytes. MIT.
 - 🔎 **[windows-reversing](https://github.com/Kizuno18/windows-reversing)** — public Ghidra scripts that trace `LuaEngine` internals inside a real game binary.
 - 📱 **[wppBot](https://github.com/Kizuno18/wppBot)** — my first WhatsApp bot; reached **60k users across 2k groups**. Archived, source public for study.
 
