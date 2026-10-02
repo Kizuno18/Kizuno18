@@ -24,7 +24,7 @@
 
 - 💻 **Developer** specializing in **reverse engineering**, **automation & bot development**, and **game-client customization**.
 - 🧠 10+ years in code — started at **14** writing Tibia scripts back in **2014**, and never stopped.
-- 📍 **Location:** Under Pacific 🌊 (Brazil 🇧🇷)
+- 📍 **Location:** Under Pacific 🌊
 - 🔭 **Right now:** owner of **[KizuBot](https://kizubot.com)**, co-founder of **[CoreGuard](https://coreguard.com.br)** (anti-cheat SaaS), and tech lead on the **PokeAlliance** OTClient.
 - 🎨 **Interests:**
   - 🎧 **Music Production** — producing my album *Kizuno Feels*
